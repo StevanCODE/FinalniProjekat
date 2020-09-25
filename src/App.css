@@ -1,0 +1,382 @@
+#name {
+  font-size: 2.5vh;
+  padding-bottom: 0.5vh;
+  margin-bottom: 0vh;
+}
+
+#div1 {
+  padding: 2vh;
+  top: 10vh;
+  position: relative;
+  display:inline-table;
+  color:whitesmoke;
+  font-style: bold;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#body {
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2e57a1b-5298-4310-9e64-74a15a694458/d7acxno-d9427d71-bfa0-46bd-8761-776c9ba83297.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYTJlNTdhMWItNTI5OC00MzEwLTllNjQtNzRhMTVhNjk0NDU4XC9kN2FjeG5vLWQ5NDI3ZDcxLWJmYTAtNDZiZC04NzYxLTc3NmM5YmE4MzI5Ny5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.kAnCq9Y9iZzJX-j2uvQxIWBoL3FP6Jsm9jpDmMIX9eE");
+  background-position-y: 30vh;
+}
+
+#body2 {
+  background-image: url("https://images.alphacoders.com/613/thumb-1920-613663.jpg");
+}
+
+#body3 {
+  background-color: rgb(0, 0, 0);
+}
+
+#header{
+  text-align: center;
+  position: relative;
+
+
+}
+
+#h1 {
+  top: 20vh;
+  left: 63.5vh;
+  position: absolute;
+  color : rgb(224, 166, 19);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 3.5vh;
+  font-style: oblique;
+}
+
+#logo {
+  position: absolute;
+  top: -4vh;
+  left: 40vh;
+  height: 300px;
+  width:  650px;
+}
+
+#nav1 {
+  position: absolute;
+  top: 2.2vh;
+  color : rgb(224, 166, 19);
+  font-size: 2.5vh;
+}
+
+#nav2 {
+  position: absolute;
+  left : 10vh;
+  top: 2.2vh;
+  color : rgb(224, 166, 19);
+  font-size: 2.5vh;
+}
+
+#nav3 {
+  position: absolute;
+  right : 7vh;
+  top: 2.2vh;
+  color : rgb(224, 166, 19);
+  font-size: 2.5vh;
+}
+
+#About {
+  position: absolute;
+  top: 9vh;
+  text-align: left;
+  font-size: 2.5vh;
+  color: white;
+
+}
+
+#Contact {
+  position: absolute;
+  top: 9vh;
+  text-align: left;
+  font-size: 2.4vh;
+  color: white;
+
+}
+
+
+.link {
+  color:  rgb(224, 166, 19);
+}
+
+#signin {
+  color:  rgb(224, 166, 19);
+  font-size: 2.5vh;
+  position: absolute;
+  top:6vh;
+}
+
+#form {
+  color :white;
+  position: absolute;
+  top: 12vh;
+  left:0vh;
+}
+
+#username {
+  padding-bottom: 1.7vh;
+  padding-right: 15vh;
+  margin-bottom: 2vh;
+}
+
+#password {
+  padding-bottom: 1.7vh;
+  padding-right: 15vh;
+  margin-bottom: 2vh;
+}
+
+
+#div2 {
+  color :white;
+  position: absolute;
+  top: 27vh;
+  left:0vh;
+}
+
+
+#championslink {
+  position: absolute;
+  left : 25vh;
+  top : 9vh;
+  font-size: 5vh;
+  color:rgb(116, 22, 66);
+  font-style: oblique;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#championslink2 {
+  border-color: rgb(116, 22, 66);
+  border-width: 0.6vh;
+  padding: .5vh;
+  border-style: inset;
+  border-radius: 2vh;
+  position: absolute;
+  left : 25vh;
+  top : 9vh;
+  font-size: 5.5vh;
+  color:rgb(116, 22, 66);
+  font-style: oblique;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#worldlink {
+  position: absolute;
+  left : 95vh;
+  top : 9vh;
+  font-size: 5vh;
+  color:rgb(14, 106, 143);
+  font-style: oblique;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#worldlink2 {
+  border-color:rgb(14, 106, 143);
+  border-width: 0.6vh;
+  padding: .5vh;
+  border-style: inset;
+  border-radius: 2vh;
+  font-size: 5.5vh;
+  position: absolute;
+  left : 95vh;
+  top : 9vh;
+  font-size: 5.5vh;
+  color:rgb(14, 106, 143);
+  font-style: oblique;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#championImg {
+  border-width: 0.7vh;
+  border-color: rgb(116, 22, 66);
+  border-style: inset;
+  border-radius: 2vh;
+  position: absolute;
+  top: 18vh;
+  left: -16vh;
+  height: 85vh;
+  width: 85vh;
+}
+
+#worldImg {
+  border-width: .7vh;
+  border-color: rgb(14, 106, 143);
+  border-style: inset;
+  border-radius: 2vh;
+  position: absolute;
+  top: 18.1vh;
+  right: -5vh;
+  height: 85vh;
+  width: 75vh;
+}
+
+
+#buttons {
+  position: absolute;
+  top: 85vh;
+  right: 65vh;
+}
+
+.buttons {
+  background-color: antiquewhite;
+  margin: 1vh;
+  font-size: 1.6vh;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.champdetails {
+  color: white;
+  position: absolute;
+  top: 85vh;  
+  left:1.5vh;
+  font-size: 2vh;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+#champimg {
+  position: absolute;
+  top: 9vh;
+  height: 75vh;
+  width: 145vh;
+
+}
+
+#menu {
+  color: rgb(224, 166, 19);
+  font-size: 2.2vh;
+}
+
+#mapDiv {
+  position: absolute;
+  top:10vh;
+  
+}
+
+#mapImg {
+  height: 87vh;
+  width: 140vh;
+}
+
+
+#Freljord {
+  color:rgb(236, 205, 127);
+  font-size: 2.5vh;
+  position: absolute;
+  top: 20vh;
+  left: 40vh;
+  text-decoration: none;
+
+}
+
+#Demacia {
+  color:rgb(236, 205, 127);
+  font-size: 2.5vh;
+  position: absolute;
+  top: 34.5vh;
+  left: 37vh;
+  text-decoration: none;
+
+}
+
+#Noxus {
+  color:rgb(236, 205, 127);
+  font-size: 2.5vh;
+  position: absolute;
+  top: 26.5vh;
+  left: 67vh;
+  text-decoration: none;
+
+}
+
+#Piltover {
+  color:rgb(236, 205, 127);
+  font-size: 2.5vh;
+  position: absolute;
+  top: 43vh;
+  left: 74vh;
+  text-decoration: none;
+
+}
+
+
+#Zaun {
+  color:rgb(236, 205, 127);
+  font-size: 2.5vh;
+  position: absolute;
+  top: 44.5vh;
+  left: 83vh;
+  text-decoration: none;
+
+}
+
+
+#Bilgewater {
+  color:rgb(236, 205, 127);
+  font-size: 2.5vh;
+  position: absolute;
+  top: 53.5vh;
+  left: 102vh;
+  text-decoration: none;
+
+}
+
+
+#Ionia {
+  color:rgb(236, 205, 127);
+  font-size: 2.5vh;
+  position: absolute;
+  top: 23.5vh;
+  left: 102vh;
+  text-decoration: none;
+
+}
+
+
+#ShadowIsles {
+  color:rgb(236, 205, 127);
+  font-size: 2.5vh;
+  position: absolute;
+  top: 69.5vh;
+  left: 110vh;
+  text-decoration: none;
+
+}
+
+
+#Targon {
+  text-decoration: none;
+  color:rgb(236, 205, 127);
+  font-size: 2.5vh;
+  position: absolute;
+  top: 64.5vh;
+  left: 47vh;
+}
+
+
+#Shurima {
+  text-decoration: none;
+  color:rgb(236, 205, 127);
+  font-size: 2.5vh;
+  position: absolute;
+  top: 66.5vh;
+  left: 70vh;
+}
+
+
+.loreImg{
+  height: 75vh;
+  width: 140vh;
+}
+
+.LoreDiv {
+  position: absolute;
+  top: 10vh;
+  left: 1vh;
+}
+
+.Lore {
+  color: whitesmoke;
+  font-size: 2vh;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
